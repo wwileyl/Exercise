@@ -1,2 +1,2 @@
 # Exercise
-GitHub Practoce
+GitHub Practice
